@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/iNoteBoo/static/css/main.bf9ed866.css",
+    "main.js": "/iNoteBoo/static/js/main.df9f7ea2.js",
+    "static/media/tushar.jpg": "/iNoteBoo/static/media/tushar.c359d557b0d126db0503.jpg",
+    "index.html": "/iNoteBoo/index.html",
+    "main.bf9ed866.css.map": "/iNoteBoo/static/css/main.bf9ed866.css.map",
+    "main.df9f7ea2.js.map": "/iNoteBoo/static/js/main.df9f7ea2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf9ed866.css",
+    "static/js/main.df9f7ea2.js"
+  ]
+}
